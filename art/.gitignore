@@ -1,0 +1,2 @@
+# Sources are large and only ever used to build art/*.webp.
+src/
